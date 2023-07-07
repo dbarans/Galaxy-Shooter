@@ -4071,7 +4071,7 @@ GameObject:
   - component: {fileID: 1548221365}
   - component: {fileID: 1548221364}
   m_Layer: 5
-  m_Name: Start game
+  m_Name: Menu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4423,7 +4423,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NEW GAME
+  m_Text: MENU
 --- !u!222 &1557212730
 CanvasRenderer:
   m_ObjectHideFlags: 0
